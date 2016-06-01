@@ -2,7 +2,7 @@
 layout: post
 title: "Not an Introduction"
 date: 2016-06-1
-excerpt: ""
+excerpt: " "
 tags: []
 feature: assets/img/post20160601.jpg
 comments: true
