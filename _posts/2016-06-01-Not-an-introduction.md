@@ -7,7 +7,7 @@ tags: []
 comments: true
 ---
 
-Had this been 2010 and had I been still in school, when the craze for blogging was relatively new, I would have probably begun by introducing myself, saying hello, and trying every bit to make you believe I was the girl next door who blogs and has a varied opinion on everything under the sun and up your ass. That would've probably been my first post. And then a few mundane and unrelated posts with a dying frequency and then finally I would forget the password to the system, and the fact that I ever blogged.
+Had this been 2010 and had I still been in school, when the craze for blogging was relatively new, I would have probably begun by introducing myself, saying hello, and trying every bit to make you believe I was the girl next door who blogs and has a varied opinion on everything under the sun and up your ass. That would've probably been my first post. And then a few mundane and unrelated posts with a dying frequency and then finally I would forget the password to the system, and the fact that I ever blogged.
 
 A few years later, someone would probably dig up the blog and we'd all have a good laugh over it, with my face so red, you'd think I was going to burst.
 
