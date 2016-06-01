@@ -4,7 +4,7 @@ title: "Not an Introduction"
 date: 2016-06-1
 excerpt: " "
 tags: []
-feature: http://feelgrafix.com/data_images/out/28/988594-calvin-and-hobbes.jpg
+feature: assets/img/post20160601.jpg
 comments: true
 ---
 
