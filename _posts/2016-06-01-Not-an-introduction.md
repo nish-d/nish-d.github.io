@@ -3,7 +3,7 @@ layout: post
 title: "Not an Introduction"
 date: 2016-06-1
 excerpt: "Hello World"
-tags: [sample post, readability, test]
+tags: []
 comments: true
 ---
 
