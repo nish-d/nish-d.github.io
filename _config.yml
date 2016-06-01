@@ -1,14 +1,14 @@
 # Site
-title:              Nishita Dutta
-bio:                ""Too good to put into words""
-description:        ""
+title:              Moon
+bio:                'Minimal, one column jekyll theme.'
+description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://nish-d.github.io
+url:                http://taylantatli.me/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -30,26 +30,26 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  plus:            NishitaDutta
+#google:
+  #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:				nishnikdutta@gmail.com
-#twitter:            username
-facebook:           nishita.dutta.3
-github:             nish-d
+#email:
+twitter:            username
+facebook:           username
+github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          nishita-dutta-62488b111
+#linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
