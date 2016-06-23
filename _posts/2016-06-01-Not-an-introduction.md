@@ -4,7 +4,7 @@ title: "Not an Introduction"
 date: 2016-06-1
 excerpt: "Had this been 2010 and had I still been in school, when the craze for blogging was relatively new, where you looked upon every blogger with an awe reserved only for the rare category of nerdy combined with hep, I would have probably begun by introducing myself (read ASL), saying hello, trying to potray myself as the girl next door who blogs and has a varied opinion on everything under the sun and up your ass. From  rainbows to unicorns, friday evenings to monday mornings, dodgeball to VCop2 and Hardy Boys to Teen Titans."
 tags: []
-feature: assets/img/post20160601.jpg
+feature: /assets/img/post20160601.jpg
 comments: true
 ---
 
