@@ -19,7 +19,7 @@
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				{% if post.feature %}
-					<image>{{ site.url}}{{ post.feature | xml_escape}}</image>
+					<media:content url="{{ site.url}}{{ post.feature | xml_escape}}" type="image/jpg">
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
