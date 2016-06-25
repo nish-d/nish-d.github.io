@@ -1,7 +1,8 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:media="http://search.yahoo.com/mrss">
 	<channel>
 		<title>{{ site.name | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
@@ -19,7 +20,7 @@
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				{% if post.feature %}
-					<media:content url="{{ site.url}}{{ post.feature | xml_escape}}" type="image/jpg">
+					<media:content url="{{ site.url}}{{ post.feature | xml_escape}}" type="image/jpg"/>
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
