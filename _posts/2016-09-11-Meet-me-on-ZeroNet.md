@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meet Me on ZeroNet"
-date: 2016-11-9
+date: 2016-09-11
 excerpt: "Revolution starts from Zero. Welcome to ZeroNet"
 tags: [ZeroNet, torrent, play, bitcoin, bittorrent, internet]
 feature: /assets/img/zeronet/feature.PNG
