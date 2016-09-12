@@ -18,6 +18,6 @@ Fair enough, I'm still the same old person, but just not as narcissistic. If you
 
 I guess this is the part, where I state why, and what this blog is about. But trust me, if I knew the answers to those questions, you wouldn't have been reading this. There would've been a quite sanely edited write up on things, how they work and why they do. Probably an insight to the workshop that is in my head, with it being so mundanely and morbidly idle, I had to rent it to the devil himself. 
 
-Enough said. All I can hope is this doesn't turn up in "Top 10 embarrassing things Nishita did" on buzzFeed/scoopWhoop, when I'm all famous and rich. \*smug smile\*
+Enough said. All I can hope is this doesn't turn up in "Top 10 embarrassing things Nishita did" on buzzFeed/scoopWhoop, when I'm all famous and rich. \*smug smile\* Also do [subscribe](https://nish-d.github.io/subscribe.html).
 
 *P.S. If I promised you candy, money or a ride on my flying scooter for reading this, and you believed me, you've been cheated. Yes, the scooter exists. Peace out.*
