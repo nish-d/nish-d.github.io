@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c882014b-b44e-4996-95b1-c6486f194b52" name="Default" comment="updated image">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zeronet/feature.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/zeronet/feature.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/post20160601.jpg" afterPath="$PROJECT_DIR$/assets/img/post20160601.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/zeronet/clone.PNG" afterPath="$PROJECT_DIR$/assets/img/zeronet/clone.PNG" />
+    <list default="true" id="c882014b-b44e-4996-95b1-c6486f194b52" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-precomposed.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-09-11-Meet-me-on-ZeroNet.md" afterPath="$PROJECT_DIR$/_posts/2016-09-11-Meet-me-on-ZeroNet.md" />
     </list>
     <ignored path="nish-d.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -285,7 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zeronet" />
+              <option name="myItemId" value="favicons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -412,7 +420,7 @@
       <workItem from="1464790805945" duration="6867000" />
       <workItem from="1464807111158" duration="5474000" />
       <workItem from="1464947572427" duration="2647000" />
-      <workItem from="1473646652702" duration="10180000" />
+      <workItem from="1473646652702" duration="10951000" />
     </task>
     <task id="LOCAL-00001" summary="updated _config.yml">
       <created>1464792536007</created>
@@ -533,17 +541,24 @@
       <option name="project" value="LOCAL" />
       <updated>1473658418265</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updated images">
+      <created>1473659087318</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1473659087318</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25168000" />
+    <option name="totallyTimeSpent" value="25939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="6" width="1378" height="729" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23788546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23788546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -582,7 +597,8 @@
     <MESSAGE value="Added Subscription form" />
     <MESSAGE value="Added Subscription form, stopwatch project and image feature changes" />
     <MESSAGE value="added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="added images" />
+    <MESSAGE value="updated images" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
