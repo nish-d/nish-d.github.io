@@ -20,4 +20,4 @@ I guess this is the part, where I state why, and what this blog is about. But tr
 
 Enough said. All I can hope is this doesn't turn up in "Top 10 embarrassing things Nishita did" on buzzFeed/scoopWhoop, when I'm all famous and rich. \*smug smile\*
 
-*P.S. If I promised you candy, money or a ride on my flying scooter for reading this, and you believed me, you've been cheated. Yes, the scooter exists. Peace.*
+*P.S. If I promised you candy, money or a ride on my flying scooter for reading this, and you believed me, you've been cheated. Yes, the scooter exists. Peace out.*
