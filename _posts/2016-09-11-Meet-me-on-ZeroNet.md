@@ -4,7 +4,7 @@ title: "Meet Me on ZeroNet"
 date: 2016-09-11
 excerpt: "Revolution starts from Zero. Welcome to ZeroNet"
 tags: [ZeroNet, torrent, play, bitcoin, bittorrent, internet]
-feature: /assets/img/zeronet/feature.PNG
+feature: https://nish-d.github.io/assets/img/zeronet/feature.PNG
 comments: true
 ---
 
