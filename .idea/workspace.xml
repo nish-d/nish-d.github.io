@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c882014b-b44e-4996-95b1-c6486f194b52" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicons/temp/apple-icon-precomposed.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon.jpg" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-icon.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nish-d.github.io.iws" />
@@ -420,7 +414,7 @@
       <workItem from="1464790805945" duration="6867000" />
       <workItem from="1464807111158" duration="5474000" />
       <workItem from="1464947572427" duration="2647000" />
-      <workItem from="1473646652702" duration="10951000" />
+      <workItem from="1473646652702" duration="11683000" />
     </task>
     <task id="LOCAL-00001" summary="updated _config.yml">
       <created>1464792536007</created>
@@ -548,11 +542,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473659087318</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="changed favicons">
+      <created>1473660681593</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1473660681593</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25939000" />
+    <option name="totallyTimeSpent" value="26671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="6" width="1378" height="729" extended-state="0" />
@@ -598,7 +599,8 @@
     <MESSAGE value="Added Subscription form, stopwatch project and image feature changes" />
     <MESSAGE value="added images" />
     <MESSAGE value="updated images" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated images" />
+    <MESSAGE value="changed favicons" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed favicons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
