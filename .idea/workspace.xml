@@ -4,10 +4,6 @@
     <list default="true" id="c882014b-b44e-4996-95b1-c6486f194b52" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/disqus_comments.html" afterPath="$PROJECT_DIR$/_includes/disqus_comments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/social-links.html" afterPath="$PROJECT_DIR$/_includes/social-links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/compress.html" afterPath="$PROJECT_DIR$/_layouts/compress.html" />
     </list>
     <ignored path="nish-d.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,8 +97,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="-235">
+              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -520,7 +516,7 @@
       <workItem from="1473646652702" duration="13016000" />
       <workItem from="1473676867718" duration="4180000" />
       <workItem from="1473760263318" duration="46000" />
-      <workItem from="1473919611777" duration="945000" />
+      <workItem from="1473919611777" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="updated _config.yml">
       <created>1464792536007</created>
@@ -690,11 +686,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473737409855</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="changed site urls to https">
+      <created>1473920585245</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1473920585245</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33175000" />
+    <option name="totallyTimeSpent" value="34778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -743,7 +746,8 @@
     <MESSAGE value="changed favicons" />
     <MESSAGE value="changed dates" />
     <MESSAGE value="changed position of feature image" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed position of feature image" />
+    <MESSAGE value="changed site urls to https" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed site urls to https" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1043,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="-235">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
       </provider>
