@@ -8,6 +8,8 @@ feature: /assets/img/post20190323.png
 facebook: /assets/img/post20190323-bicubic.png
 comments: true
 ---
+
+
 >>“The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.” ~ Mr Peanut Butter
 
 There is a prominent skywalk in Borivali, one of the terminal stations of the western line in Bombay. It's connected to the skywalks on the stations and also runs above the main roads in the area. Standing there and looking down at the city, a city that isn't just its sea, local trains and vada pavs, made me feel the same kind of inconsequential and tiny that you feel when you look at a million stars in the sky on a dark and quiet night.   
