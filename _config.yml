@@ -61,11 +61,12 @@ instagram:          nishita.d
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - kramdown-parser-gfm
 
 jekyll-mentions:
     base_url: https://github.com
