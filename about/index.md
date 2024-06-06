@@ -10,7 +10,7 @@ Hey there! So, picture this: I'm like a tech wizard with a cape made of code, ju
 
 I've had a whirlwind romance with Android development for over four years. From enhacing UPI payments at PhonePe, India to building apps for social causes and freelance gigs I've done it all. 
 
-Education-wise, I've got a master's from the National University of Singapore, where I honed my coding chops and graduated with flying colors. 
+Education-wise, I've got a master's from the National University of Singapore, where I honed my coding chops and graduated with flying colors. Find me [here!!](https://nus-test.github.io/author/nishita-dutta/) 
 
 In my free time, I've dabbled in teaching, mentoring, and even battling it out in hackathons like a true warrior of the keyboard. 
 
